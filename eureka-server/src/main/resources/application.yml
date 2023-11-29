@@ -1,0 +1,11 @@
+server:
+  port: 8761 # 보통 8761 사용
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  client:
+    register-with-eureka: false # 서버이기 때문에 client 등록 필요 X
+    fetch-registry: false # registry 정보 가져올 필요 X
