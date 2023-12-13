@@ -1,5 +1,5 @@
 server:
-  port: 8761 # 보통 8761 사용
+  port: 8761
 
 spring:
   application:
