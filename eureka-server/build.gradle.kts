@@ -1,5 +1,3 @@
-import org.springframework.aot.hint.TypeReference.listOf
-
 plugins {
     id("org.springframework.boot") version "3.1.6"
     id("io.spring.dependency-management") version "1.1.4"
