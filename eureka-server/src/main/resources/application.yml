@@ -7,5 +7,5 @@ spring:
 
 eureka:
   client:
-    register-with-eureka: false # 서버이기 때문에 client 등록 필요 X
+    register-with-eureka: false
     fetch-registry: false # registry 정보 가져올 필요 X
