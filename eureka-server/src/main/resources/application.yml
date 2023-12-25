@@ -8,4 +8,4 @@ spring:
 eureka:
   client:
     register-with-eureka: false
-    fetch-registry: false # registry 정보 가져올 필요 X
+    fetch-registry: false
